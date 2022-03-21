@@ -1,0 +1,1 @@
+This is sample project for kafka learning based on Conduktor tutorials.

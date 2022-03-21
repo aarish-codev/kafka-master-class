@@ -1,0 +1,7 @@
+.idea
+.gradle
+build
+*/build/*
+*/out/*
+/kafka-java/build/
+/kafka-java/out/
