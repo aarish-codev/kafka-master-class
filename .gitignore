@@ -5,3 +5,6 @@ build
 */out/*
 /kafka-java/build/
 /kafka-java/out/
+/kafka-avro/kafka-avro.iml
+/kafka-avro/kafka-avro.ipr
+/kafka-avro/kafka-avro.iws
